@@ -1,0 +1,11 @@
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\bin\Debug\MathQuizIXD.exe.config
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\bin\Debug\MathQuizIXD.exe
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\bin\Debug\MathQuizIXD.pdb
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\obj\Debug\MathQuizIXD.csproj.AssemblyReference.cache
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\obj\Debug\MathQuizIXD.csproj.SuggestedBindingRedirects.cache
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\obj\Debug\MathQuizIXD.Form1.resources
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\obj\Debug\MathQuizIXD.Properties.Resources.resources
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\obj\Debug\MathQuizIXD.csproj.GenerateResource.cache
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\obj\Debug\MathQuizIXD.csproj.CoreCompileInputs.cache
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\obj\Debug\MathQuizIXD.exe
+C:\programare-vizuala\IXDvisual\MathQuizIXD\MathQuizIXD\obj\Debug\MathQuizIXD.pdb
